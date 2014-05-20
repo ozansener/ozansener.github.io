@@ -1,0 +1,21 @@
+name: ozansener.net
+url: "ozansener.github.io"
+description: "Webpage"
+disqus_shortname: "ghink"
+use_leaflet: 1
+blog_more_posts: 5
+prettify_theme: "ghink"
+markdown: redcarpet
+pygments: true
+paginate: 5
+paginate_path: "blog/page/:num"
+timezone: Europe/Lisbon
+redcarpet:
+  extensions:
+    - hard_wrap
+    - no_intra_emphasis
+    - autolink
+    - strikethrough
+    - fenced_code_blocks
+gems:
+    - jekyll-sitemap
