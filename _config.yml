@@ -1,7 +1,7 @@
 name: ozansener.net
 url: "ozansener.github.io"
 description: "Webpage"
-disqus_shortname: "ghink"
+disqus_shortname: "ozanSener"
 use_leaflet: 1
 blog_more_posts: 5
 prettify_theme: "ghink"
