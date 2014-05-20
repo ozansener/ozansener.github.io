@@ -17,5 +17,3 @@ redcarpet:
     - autolink
     - strikethrough
     - fenced_code_blocks
-gems:
-    - jekyll-sitemap
