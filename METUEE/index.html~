@@ -29,7 +29,7 @@
 		}
 
 
-		var map = L.map('map',{'closePopupOnClick':false,'zoomControl':false}).setView([45.0863874,-30.2500489], 3);
+		var map = L.map('map',{'closePopupOnClick':false}).setView([45.0863874,-30.2500489], 3);
 
 		L.tileLayer('https://{s}.tiles.mapbox.com/v3/{id}/{z}/{x}/{y}.png', {
 			maxZoom: 18,
