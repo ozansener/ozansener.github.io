@@ -1,0 +1,90 @@
+.container { position: relative; width: 720px; /* 960px; */ margin: 0 auto; padding: 0; }
+.container .column { float: left; display: inline; }
+.row { margin-bottom: 20px; }
+
+/* Window Width < 480
+
+@media only screen and (max-width: 480px) {
+    
+    
+}
+
+480 ≤ Window Width < 768
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    
+    
+}
+
+*/
+
+
+
+/* Box width calculation */
+
+@width: 60px;
+@gutter: 20px;
+
+.box(@column) {
+    width: @column * (@width + @gutter) - @gutter;
+    margin-right: @gutter;
+}
+
+.holder {
+    margin-right: -1 * @gutter;
+}
+
+div {
+
+}
+
+.container {
+    //background: url("../temp/grid-centered-bg.png") repeat center top;
+}
+
+.holder {
+    // background: url("../temp/grid-floated-bg.png") repeat left top;
+}
+
+/* Clearing */
+
+.container:after { content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
+
+.clearfix:before,
+.clearfix:after,
+.row:before,
+.row:after {
+    content: '\0020';
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0; }
+.row:after,
+.clearfix:after {
+    clear: both; }
+.row,
+.clearfix {
+    zoom: 1; }
+
+.clear {
+    clear: both;
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+
+/* Conversions */
+
+.box1 { .box(1); }
+.box2 { .box(2); }
+.box3 { .box(3); }
+.box4 { .box(4); }
+.box5 { .box(5); }
+.box6 { .box(6); }
+.box7 { .box(7); }
+.box8 { .box(8); }
+.box9 { .box(9); }
+.box10 { .box(10); }

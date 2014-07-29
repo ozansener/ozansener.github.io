@@ -1,0 +1,196 @@
+@maincolor: #e6bd3f;
+@gray: rgba(47 * 1, 48 * 1, 48 * 1, 1);
+
+@thumbnailSize: 125px; // Used in image import
+
+.background(@factor) {
+    background-color: rgba(47 * @factor, 48 * @factor, 48 * @factor, 1);
+}
+
+.color(@factor) {
+    color: rgba(47 * @factor, 48 * @factor, 48 * @factor, 1);
+}
+
+.font-metrics(@lineheight, @boxheight) {
+  height: @boxheight;
+  display: inline-block;
+  @addition: floor(@lineheight * 0.1);
+  font-size: @lineheight + @addition;
+  line-height: @lineheight;
+  @padding: ((@boxheight - @lineheight)/2);
+  padding: (@padding - ceil(@addition / 4)) (@padding * 1.25) (@padding + ceil(@addition / 4)) (@padding * 1.25);
+}
+
+.dark {
+    .background(1);
+}
+
+.light {
+    background: #fff;
+}
+
+.fleft {
+    float: left;
+}
+
+.fright {
+    float: right;
+}
+
+.tleft {
+    text-align: left;
+}
+
+.tcenter {
+    text-align: center;
+}
+
+.tright {
+    text-align: right;
+}
+
+.dnone {
+    display: none;
+}
+
+.box-shadow(@properties) {
+  -webkit-box-shadow: @properties;
+     -moz-box-shadow: @properties;
+          box-shadow: @properties;
+}
+
+.text-shadow(@properties) {
+  -webkit-text-shadow: @properties;
+     -moz-text-shadow: @properties;
+          text-shadow: @properties;
+}
+
+.basic-shadow {
+  .box-shadow(2px 3px 3px -3px rgba(0,0,0,.2));
+}
+
+.bottom-shadow {
+  .box-shadow(0 3px 3px -3px rgba(0,0,0,.2));
+}
+
+.bottom-text-shadow {
+  .text-shadow(3px 2px 2px -2px rgba(0,0,0,.1));
+}
+
+/* Texts */
+
+.dark-text {
+    .color(1);
+}
+
+.light-text {
+    color: white;
+}
+
+/* Links */
+
+.dark-link {
+    color: rgba(47, 48, 48, .5);
+    &:hover {
+        color: rgba(47, 48, 48, .85);
+    }
+    .active {
+        color: rgba(47, 48, 48, 1);
+    }
+}
+
+.light-link {
+    color: rgba(255, 255, 255, .5);
+    &:hover {
+        color: rgba(255, 255, 255, .85);
+    }
+    .active {
+        color: rgba(255, 255, 255, 1);
+    }
+}
+
+/* Buttons */
+
+.button {
+  display: inline-block;
+  .ie7-inline-block();
+  padding: 0;
+  margin-bottom: 0; // For input.btn
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  *border: 0; // Remove the border to prevent IE7's black border on input:focus
+  //.ie7-restore-left-whitespace(); // Give IE7 some love
+
+  // Hover/focus state
+  &:hover,
+  &:focus {
+    text-decoration: none;
+    background-position: 0 -15px;
+
+    // transition is only when going to hover/focus, otherwise the background
+    // behind the gradient (there for IE<=9 fallback) gets mismatched
+  }
+
+  // Focus state for keyboard and accessibility
+  &:focus {
+    .tab-focus();
+  }
+
+  // Active state
+  &.active,
+  &:active {
+    background-image: none;
+    outline: 0;
+  }
+
+  // Disabled state
+  &.disabled,
+  &[disabled] {
+    cursor: default;
+    background-image: none;
+    .opacity(65);
+    .box-shadow(none);
+  }
+
+}
+
+// Webkit-style focus
+// ------------------
+.tab-focus() {
+  // Default
+  outline: thin dotted #333;
+  // Webkit
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+
+// IE7 inline-block
+// ----------------
+.ie7-inline-block() {
+  *display: inline; /* IE7 inline-block hack */
+  *zoom: 1;
+}
+
+// Opacity
+.opacity(@opacity) {
+  opacity: @opacity / 100;
+  filter: ~"alpha(opacity=@{opacity})";
+}
+
+/* Mixins */
+
+.round(@factor) {
+    -webkit-border-radius: @factor;
+    -moz-border-radius: @factor;
+    border-radius: @factor;
+}
+
+.round-right(@factor) {
+    -webkit-border-top-right-radius: @factor;
+    -moz-border-top-right-radius: @factor;
+    border-top-right-radius: @factor;
+    -webkit-border-bottom-right-radius: @factor;
+    -moz-border-bottom-right-radius: @factor;
+    border-bottom-right-radius: @factor;
+}
