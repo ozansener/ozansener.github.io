@@ -1,0 +1,33 @@
+---
+layout: default
+title: Contact | Ozan Sener
+---
+
+<div class="column-group gutters">
+
+    <div class="all-66 small-100 medium-66">
+      <p>
+        Easiest way to contact me is e-mail. However, If you need to meet me in person, you can probably find me doing research in Gates Hall, drinking cofee at Stella's, or juggling at art's quad.
+      </p>
+      <p>
+        Feel free to contact me anyway you like if you have questions/suggestions about my work or just want to discuss anything about machine learning, probability, robotics, mathmetics, juggling, sci-fi or any nerdy topic you can imagine. 
+      </p>
+    </div>
+
+    <div class="all-33 small-100 medium-33">
+        <address>
+            <p>217 Philips Hall</p>
+            <p>Cornell University</p>
+            <p>Ithaca, NY, US</p>
+            <p><i class="icon-envelope"></i> os79[at]cornell[dot]edu</p>
+        </address>
+    </div>
+
+    <div class="all-100 small-100 medium-100">
+		{% include leaflet.html height="400" coords="42.445030, -76.480869" zoom="15" provider="Stamen.Terrain" marker_coords="42.445030,-76.480869" marker_title="Here I am" %}
+
+
+    </div>
+
+</div>
+
