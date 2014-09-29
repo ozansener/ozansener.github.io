@@ -1,0 +1,50 @@
+{
+    "home" : {
+        "header" : "header/navigation-bar.html",
+        "information" : "information/empty.html",
+        "content" : {
+            "default" : "feeds",
+            "feeds" : "home/feeds.html"
+        }
+    },
+    
+    
+    
+    "explore" : {
+        "header" : "header/navigation-bar.html",
+        "information" : "information/explore.html",
+        "content" : {
+            "default" : "popular",
+            "popular" : "explore/popular.html",
+            "recent" : "explore/recent.html",
+            "brands" : "explore/brands.html",
+            "experts" : "explore/experts.html",
+            "promotions" : "explore/promotions.html"
+        }
+    },
+
+    "profile" : {
+        "header" : "header/navigation-bar.html",
+        "information" : "information/profile.html",
+        "content" : {
+            "default" : "feeds",
+            "feeds" : "profile/feeds.html",
+            "about" : "profile/about.html",
+            "pictures" : "profile/pictures.html",
+            "followers" : "profile/followers.html",
+            "following" : "profile/following.html"
+        }
+    },
+    
+    "import" : {
+        "header" : "header/navigation-bar.html",
+        "information" : "information/import.html",
+        "content" : {
+            "default" : "device",
+            "device" : "import/device.html",
+            "instagram" : "import/instagram.html",
+            "facebook" : "import/facebook.html",
+            "revize" : "import/revize.html"
+        }
+    }
+}
