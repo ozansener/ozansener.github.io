@@ -1,0 +1,137 @@
+/* Window Width < 480 */
+
+@media only screen and (max-width: 479px) {
+    
+    body { font-size: 18px; line-height: 24px; }
+    
+    a b  { font-size: 18px; line-height: 24px; }
+    
+    .section { padding: 0 0 40px 0; }
+    .section:first-child { padding: 40px 0; }
+    .label { padding-top: 40px; text-align: center; }
+    .label.one.column + .items { margin-top: 0px; }
+    .item { margin-top: 25px; }
+    .item p { margin-top: 12px; }
+    
+    .picture { width: 100px; height: 100px; margin: 0 auto; display: block; }
+    
+    h1 { font-size: 22px; line-height: 17px; margin-bottom: 8px; }
+    h2 { font-size: 18px; line-height: 16px; margin-bottom: 8px; }
+    h3 { font-size: 16px; line-height: 15px; margin-bottom: 6px; }
+    h4 { font-size: 15px; line-height: 16px; margin-bottom: 5px; }
+    h5 { font-size: 15px; line-height: 20px; }
+    h6 { font-size: 12px; line-height: 14px; }
+    p { font-size: 15px; line-height: 20px; }
+    
+    .explanation { padding-bottom: 20px; text-align: center; }
+    
+    label {font-size: 16px;}
+    
+    button { font-size: 15px; line-height: 20px; padding: 12px 0; }
+    
+    input, textarea, select { font-size: 14px; line-height: 21px; padding: 7px 11px 9px 11px; margin-bottom: 10px; }
+    
+    #control ul#navigation > li.left { position: fixed; left: 0px; }
+    #control ul#navigation > li.right { position: fixed; right: 0px; }
+    
+    #socialprofiles .items { width: 340px; margin-top: 25px; }
+    #socialprofiles .item { width: 65px; margin: 0 20px 20px 0; }
+    
+    #contact .item p { font-size: 18px; line-height: 23px; text-align: center; }
+    
+    #promotion img { width: 45%; margin-top: 10px; }
+    #promotion p { font-size: 16px; line-height: 21px; width: 100%; }
+    
+}
+
+/* 480 ≤ Window Width < 768 */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    
+    body { font-size: 18px; line-height: 24px; }
+    
+    a b  { font-size: 18px; line-height: 24px; }
+    
+    .section { padding: 0 0 40px 0; }
+    .section:first-child { padding: 40px 0; }
+    .label { padding-top: 40px; text-align: center; }
+    .label.one.column + .items { margin-top: 0px; }
+    .item { margin-top: 25px; }
+    .item p { margin-top: 12px; }
+    
+    .picture { width: 120px; height: 120px; margin: 0 auto; display: block; }
+    
+    h1 { font-size: 26px; line-height: 20px; margin-bottom: 10px; }
+    h2 { font-size: 21px; line-height: 20px; margin-bottom: 10px; }
+    h3 { font-size: 20px; line-height: 19px; margin-bottom: 8px; }
+    h4 { font-size: 18px; line-height: 18px; margin-bottom: 6px; }
+    h5 { font-size: 16px; line-height: 22px; }
+    h6 { font-size: 14px; line-height: 14px; }
+    p { font-size: 16px; line-height: 21px; }
+    
+    .explanation { padding-bottom: 20px; text-align: center; }
+    
+    label { font-size: 18px; }
+    
+    button { font-size: 16px; line-height: 22px; padding: 16px 0; }
+    
+    input, textarea, select { font-size: 16px; line-height: 24px; padding: 9px 13px 11px 13px; margin-bottom: 10px; }
+    
+    #socialprofiles .items { width: 440px; margin-top: 25px; }
+    #socialprofiles .item { width: 44px; margin: 0 10px 0 0; }
+    
+    #contact .item p { font-size: 18px; line-height: 23px;  text-align: center; }
+    
+    #promotion img { width: 40%; margin: 10px auto 0 auto; }
+    #promotion p { font-size: 18px; line-height: 23px; width: 80%; }
+    
+    /* Patch */
+    
+    #skills .container { width: 440px; }
+    #skills .two.column { width: 200px; }
+    #skills .column { margin-left: 10px; margin-right: 10px; }
+    
+}
+
+/* 768 ≤ Window Width */
+
+@media only screen and (min-width: 768px) {
+    
+    body { font-size: 18px; line-height: 24px; }
+    
+    a b  { font-size: 18px; line-height: 24px; }
+    
+    .section { padding: 0 0 50px 0; }
+    .section:first-child { padding: 50px 0; }
+    .label { padding-top: 50px; text-align: left; }
+    .label.one.column + .items { margin-top: 20px; }
+    .item { margin-top: 30px; }
+    .item p { margin-top: 12px; }
+    
+    .picture { width: 150px; height: 150px; margin: 0 auto; display: block; }
+    
+    h1 { font-size: 32px; line-height: 24px; margin-bottom: 14px; }
+    h2 { font-size: 18px; line-height: 20px; margin-bottom: 8px; }
+    h3 { font-size: 22px; line-height: 21px; margin-bottom: 8px; }
+    h4 { font-size: 21px; line-height: 21px; margin-bottom: 6px; }
+    h5 { font-size: 17px; line-height: 24px; }
+    h6 { font-size: 15px; line-height: 15px; }
+    p { font-size: 18px; line-height: 23px; }
+    
+    .explanation { padding-bottom: 0px; text-align: left; }
+    
+    label { font-size: 16px; }
+    
+    button { font-size: 17px; line-height: 24px; padding: 20px 0; }
+    
+    input, textarea, select { font-size: 18px; line-height: 27px; padding: 11px 15px 13px 15px; margin-bottom: 10px; }
+    
+    #socialprofiles .items { width: 340px; margin-top: 25px; }
+    #socialprofiles .item { width: 65px; margin: 0 20px 20px 0; }
+    
+    #contact .item { text-align: left; }
+    
+    #promotion img { width: 100%; margin-top: 2px; }
+    #promotion p { font-size: 16px; line-height: 19px; width: 100%; }
+    
+}

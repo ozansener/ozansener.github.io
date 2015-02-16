@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!-->
+<html lang="en">
+<!--<![endif]-->
+<head>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="Personal homepage of Ozan Sener">
+    <meta name="author" content="Ozan Sener">
+    <meta property="og:title" content="ozansener" />
+    <meta property="og:url" content="http://ozansener.net" />
+    <meta property="og:image" content="http://ozansener.net/ozansener-typographic.png" />
+    <meta property="og:description" content="Personal homepage of Ozan Sener" />
+    
+    <title>Ozan Sener</title>
+    
+    <link type="text/css" rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.8.0/build/cssreset/cssreset-min.css">
+    <link type="text/css" rel="stylesheet" href="assets/styles/grid.css">
+    <link type="text/css" rel="stylesheet" href="assets/styles/style.css">
+    <link type="text/css" rel="stylesheet" href="assets/styles/responsive.css">
+    <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/f9c46238-0519-490a-9de7-04b3a7acae4f.css"/>
+    
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- Scripts -->
+    <script src="http://code.jquery.com/jquery-1.9.0.js"></script>
+    <script type="text/javascript">
+        $(window).scroll(function() {
+            if ($(this).scrollTop() >= 160) {
+                $('#control').addClass('fixed');
+            }
+            else if ($(this).scrollTop() < 160) {
+                $('#control').removeClass('fixed');
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+    
+    <!-- Identity (beginning) -->
+        <div id="identity">
+            <div class="container">
+                <div class="six column">
+                    <img src="ozansener-typographic.png" />
+                </div>
+            </div>
+        </div>
+    <!-- Identity (end) -->
+    
+    <!-- Control (beginning) -->
+    <div id="control">
+        <div id="control-inner">
+            <div class="container">
+                <div class="six column">
+                    <ul id="navigation">
+                        <li class="menu-item" style="display: none;"><a href="#identity" title="Identity"></a></li>
+                        <li class="menu-item"><a href="about.html" title="About">About</a></li>
+                        <li class="menu-item"><a href="#publications" title="Publications">Publications</a></li>
+                        <li class="menu-item"><a href="#blog" title="Blog">Blog</a></li>
+                        <li class="menu-item"><a href="#contact" title="Contact">Contact</a></li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <!-- Control (end) -->
+    
+    <!-- Content (beginning) -->
+    <div id="content" class="section">
+        <div class="container">
+            <div class="six column">
+                <img src="content/pictures/ozansener-profile.png">
+                <h1>So long, and thanks for all the fish.</h1>
+                <p>I am a PhD student at <a href="http://ece.cornell.edu/"> Electrical and Computer Engineering Department</a> of <a href="http://cornell.edu">Cornell University</a> working with <a href="http://cs.cornell.edu/~asaxena/">Ashutosh Saxena</a>. My current research interests center around machine Learning and robotics. I completed my M.Sc. study at Multimedia Research Group led by <a href="http://eee.metu.edu.tr/~alatan/">Aydin Alatan</a> in Electrical and Electronics Engineering department of <a href="http://metu.edu.tr">METU</a>.</p>
+                    <p>From a theory perspective, I am interested in efficient inference/learning methods for graphical models. From an application perspective, I am mostly interested in vision and language.</p>
+                <p>When I am not doing a research or <a href="http://github.com/ozansener">writing a code</a>, I am mostly reading some science-fiction books or practicing juggling. I usually spend quite a bit time on juggling, especially diabolo and club tricks. I am also interested in designing and playing puzzles and team games.</p>
+                    <p>If you want/need to contact me, the fastest option is usually an e-mail.<br>My e-mail addressis os79[at]cornell[dot]edu.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <!-- Content (end) -->
+</body>
+</html>

@@ -1,0 +1,128 @@
+---
+layout: default
+title: Publications | Ozan Sener
+---
+       <h2><strong>Journal Papers</strong></h2>
+<div class="all-85" style="background-color: #eee; border: 1px dashed #dedede; padding: 10px 15px 8px 15px; margin: 0 0 10px 0;">
+<strong style="font-size: 14px;">Efficient MRF Energy Propagation for Video Segmentation via Bilateral Filters.</strong></p>
+<hr style="border: none !important; background: #eee; height: 1px; margin: 0 0 -10px 0;" />
+Ozan Sener, Kemal Ugur, Aydin Alatan<br />
+IEEE Transactions on Multimedia, vol.16, no.5, pp.1292,1302, Aug. 2014
+</div>
+
+<h2 style="text-align: justify;"><strong>Conference Papers:</strong></h2>
+<div class="all-85" style="background-color: #eee; border: 1px dashed #dfdfdf; padding: 10px 15px 8px 15px; margin: 0 0 10px 0;">
+<strong><a style="font-size: 14px;" class="pub" href="http://www.ozansener.net/papers/immpdSener.pdf">Error-tolerant Interactive Image Segmentation using Dynamic and Iterated Graph-Cuts </a></strong></p>
+<hr style="border: none !important; background: #eee; height: 1px; margin: 0 0 -10px 0;" />
+Ozan Sener, Kemal Ugur, Aydin Alatan<br />
+IMMPD: International workshop on Interactive Multimedia on Mobile and Portable Devices 2012
+</div>
+<div class="all-85" style="background-color: #eee; border: 1px dashed #dedede; padding: 10px 15px 8px 15px; margin: 0 0 10px 0;">
+<strong><a style="font-size: 14px;" class="pub" href="http://www.ozansener.net/papers/icipSener.pdf">Interactive 2D-3D Image Conversion for Mobile Devices</a></strong></p>
+<hr style="border: none !important; background: #eee; height: 1px; margin: 0 0 -10px 0;" />
+Yagiz Aksoy, Ozan Sener, Aydin Alatan and Kemal Ugur<br />
+Proceedings of International Conference on Image Processing (ICIP) 2012
+</div>
+<div class="all-85" style="background-color: #eee; border: 1px dashed #dedede; padding: 10px 15px 8px 15px; margin: 0 0 10px 0;">
+<strong><a style="font-size: 14px;" class="pub" href="http://www.ozansener.net/papers/vigtaSener.pdf">Robust Interactive Segmentation via Coloring </a></strong></p>
+<hr style="border: none !important; background: #eee; height: 1px; margin: 0 0 -10px 0;" />
+Ozan Sener, Kemal Ugur, Aydin Alatan<br />
+VIGTA &#8217;12: Proceedings of the 1st International Workshop on Visual Interfaces for Ground Truth Collection in Computer Vision Applications in conjunction with AVI 2012
+</div>
+<h2><strong>Patents:</strong></h2>
+<div class="all-85" style="background-color: #eee; border: 1px dashed #dedede; padding: 10px 15px 8px 15px; margin: 0 0 10px 0;">
+<strong><a style="font-size: 14px;" class="pub" href="http://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&#038;NR=2013144418A1&#038;KC=A1&#038;FT=D">Image Segmentation(Interactive Image/Video Segmentation for Mobile 2D/3D Conversion)</a></strong></p>
+<hr class="all-85" style="border: none !important; background: #eee; height: 1px; margin: 0 0 -10px 0;" />
+Kemal Ugur, Ozan Sener, Erhan Gundogdu, Aydin Alatan<br />
+International Patent Application (Application number: WO2012FI50313 20120329)
+</div>
+
+
+<h3>Journal Papers</h3>
+<div class="column-group"><div class="all-85"><div class="column-group " style="background-color: #dedede; border: 1px dashed #ccc">
+    <div class="all-20" style="padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px">
+        <img src="../assets/images/tmm.png">
+    </div>
+     <div class="all-70" style="padding: 3px 0px 3px 10px;margin: 0px 0px 0px 0px">
+        <p><b>Efficient MRF Energy Propagation for Video Segmentation via Bilateral Filters.</b></p>
+        <p> Ozan Sener, Kemal Ugur, Aydin Alatan </p>
+        <p> Accepted for publication – Transactions on Multimedia </p>
+     </div>
+     <div class="all-10" align="right">
+     Pdf <i class="fa fa-file-text"></i> <br><br>  Bib <i class="fa fa-book"></i>  <br><br>
+ Project <i class="fa fa-link"></i>
+     </div>
+</div></div></div>
+
+<br>
+
+
+<h3>Conference Papers</h3>
+<div class="column-group"><div class="all-85"><div class="column-group " style="background-color: #dedede; border: 1px dashed #ccc">
+    <div class="all-20" style="padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px">
+        <img src="../assets/images/subg.png">
+    </div>
+     <div class="all-70" style="padding: 3px 0px 3px 10px;margin: 0px 0px 0px 0px">
+        <p><b>Error-tolerant Interactive Image Segmentation using Dynamic and Iterated Graph-Cuts.</b></p>
+        <p> Ozan Sener, Kemal Ugur, Aydin Alatan </p>
+        <p> ACM Multimedia 2012 Workshop IMMPD</p>
+     </div>
+     <div class="all-10" align="right">
+     Pdf <i class="fa fa-file-text"></i> <br><br>  Bib <i class="fa fa-book"></i>  <br><br>
+ Project <i class="fa fa-link"></i>
+     </div>
+</div></div></div>
+
+<br>
+
+<div class="column-group"><div class="all-85"><div class="column-group " style="background-color: #dedede; border: 1px dashed #ccc">
+    <div class="all-20" style="padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px">
+        <img src="../assets/images/2d3d.png">
+    </div>
+     <div class="all-70" style="padding: 3px 0px 3px 10px;margin: 0px 0px 0px 0px">
+        <p><b>Interactive 2D-3D Image Conversion for Mobile Devices.</b></p>
+        <p> Yagiz Aksoy, Ozan Sener, Kemal Ugur, Aydin Alatan </p>
+        <p> Proceedings of International Conference on Image Processing (ICIP) 2012 </p>
+     </div>
+     <div class="all-10" align="right">
+     Pdf <i class="fa fa-file-text"></i> <br><br>  Bib <i class="fa fa-book"></i>  <br><br>
+ Project <i class="fa fa-link"></i>
+     </div>
+</div></div></div>
+
+<br>
+
+<div class="column-group"><div class="all-85"><div class="column-group " style="background-color: #dedede; border: 1px dashed #ccc">
+    <div class="all-20" style="padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px">
+        <img src="../assets/images/color.png">
+    </div>
+     <div class="all-70" style="padding: 3px 0px 3px 10px;margin: 0px 0px 0px 0px">
+        <p><b>Robust Interactive Segmentation via Coloring.</b></p>
+        <p> Ozan Sener, Kemal Ugur, Aydin Alatan </p>
+        <p> AVI 2012 Workshop VIGTA </p>
+     </div>
+     <div class="all-10" align="right">
+     Pdf <i class="fa fa-file-text"></i> <br><br>  Bib <i class="fa fa-book"></i>  <br><br>
+ Project <i class="fa fa-link"></i>
+     </div>
+</div></div></div>
+
+<br>
+
+<h3>Patents</h3>
+<div class="column-group"><div class="all-85"><div class="column-group " style="background-color: #dedede; border: 1px dashed #ccc">
+    <div class="all-20" style="padding: 0px 0px 0px 0px;margin: 0px 0px 0px 0px">
+        <img src="../assets/images/patent.png">
+    </div>
+     <div class="all-70" style="padding: 3px 0px 3px 10px;margin: 0px 0px 0px 0px">
+        <p><b>Efficient MRF Energy Propagation for Video Segmentation via Bilateral Filters.</b></p>
+        <p> Ozan Sener, Kemal Ugur, Aydin Alatan </p>
+        <p> Accepted for publication – Transactions on Multimedia </p>
+     </div>
+     <div class="all-10" align="right">
+     Pdf <i class="fa fa-file-text"></i> <br><br>  Bib <i class="fa fa-book"></i>  <br><br>
+ Project <i class="fa fa-link"></i>
+     </div>
+</div></div></div>
+
+<br>
