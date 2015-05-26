@@ -42,9 +42,10 @@ button.off { opacity: 0.35; -moz-opacity:0.35; -khtml-opacity: 0.35; filter: alp
 /* Form */
 
 .form label { display: inline-block; float: left; }
-.form input, .form textarea, .form select { color: white; background-color: rgba(0, 0, 0, .15); border: 0; outline: none; box-sizing: border-box; transition: background-color .35s; }	
+.form input, .form textarea, .form select { color: white; background-color: rgba(0, 0, 0, .15); border: 0; outline: none; box-sizing: border-box; transition: background-color .35s; }
 .form input:focus, .form textarea:focus, .form select:focus { color: white; background-color: rgba(0, 0, 0, .35); }
-.form span.required { color: white; }
+.form span.re
+quired { color: white; }
 .form .error { border: 1px dashed red; }
 
 /* Content */
@@ -73,6 +74,7 @@ button.off { opacity: 0.35; -moz-opacity:0.35; -khtml-opacity: 0.35; filter: alp
 #content .publication .image { background-position: center top; background-repeat: no-repeat; background-size: cover; border-radius: 50%; width: 100px; height: 100px; display: inline-block; margin: 0 -10px -20px -10px; }
 #content .description { display: table-cell; vertical-align: middle; height: 100px; margin-top: -10px; }
 #content .description p:last-child { margin-bottom: 0; }
+
 
 /* Contact */
 
