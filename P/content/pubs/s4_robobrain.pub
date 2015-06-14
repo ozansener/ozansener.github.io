@@ -1,0 +1,11 @@
+{
+  "title": "RoboBrain: Large-Scale Knowledge Engine for Robots",
+  "authors": "Ashutosh Saxena, Ashesh Jain, Ozan Sener, Aditya Jami, Dipendra K. Misra, Hema S. Koppula",
+  "venue": "Technical Report",
+  "sbrackets":{
+    "arXiv:1412.0691":"http://arxiv.org/abs/1412.0691",
+    "Project":"http://robobrain.me"
+    },
+  "alias":"rb",
+  "type":"conference"
+}

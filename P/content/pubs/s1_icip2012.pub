@@ -1,0 +1,10 @@
+{
+  "title": "Interactive 2D-3D Image Conversion for Mobile Devices",
+  "authors": "Yagiz Aksoy, Ozan Sener, Kemal Ugur, Aydin Alatan",
+  "venue": "International Conference on Image Processing (ICIP) 2012",
+  "sbrackets":{
+    "PDF":"pdfs/aksoy_sener_icip12.pdf"
+    },
+  "alias":"icip",
+  "type":"conference"
+}

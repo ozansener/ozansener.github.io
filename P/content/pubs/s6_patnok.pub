@@ -1,0 +1,11 @@
+{
+  "title": "<F11>Image Segmentation",
+  "authors": "Kemal Ugur, Ozan Sener, Erhan Gundogdu, Aydin Alatan",
+  "venue": "International Patent Application (Application number: WO2012FI50313 20120329)",
+  "sbrackets":{
+    "Espacenet":"http://worldwide.espacenet.com/publicationDetails/biblio?CC=WO&NR=2013144418A1&KC=A1&FT=D",
+    "Patentscope":"https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2013144418"
+    },
+  "alias":"nokiapat",
+  "type":"patent"
+}

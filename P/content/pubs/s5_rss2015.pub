@@ -1,0 +1,10 @@
+{
+  "title": "rCRF: Recursive Belief Estimation over CRFs in RGB-D Activity Videos",
+  "authors": "Ozan Sener, Ashutosh Saxena",
+  "venue": "Robotics Science and Systems (RSS) 2015",
+  "sbrackets":{
+    "PDF":"pdfs/sener_rCRF.pdf"
+    },
+  "alias":"rcrf",
+  "type":"conference"
+}

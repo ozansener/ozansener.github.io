@@ -1,0 +1,75 @@
+/* Window Width < 480 */
+
+@media only screen and (max-width: 479px) {
+
+    body { font-size: 18px; line-height: 24px; }
+
+    h1 { font-size: 22px; line-height: 17px; margin-bottom: 8px; }
+    h2 { font-size: 18px; line-height: 16px; margin-bottom: 8px; }
+    h3 { font-size: 16px; line-height: 15px; margin-bottom: 6px; }
+    h4 { font-size: 15px; line-height: 16px; margin-bottom: 5px; }
+    h5 { font-size: 15px; line-height: 20px; }
+    h6 { font-size: 12px; line-height: 14px; }
+    p { font-size: 15px; line-height: 20px; }
+
+    button { font-size: 15px; line-height: 20px; padding: 12px 0; }
+
+    input, textarea, select { font-size: 14px; line-height: 21px; padding: 7px 11px 9px 11px; margin-bottom: 10px; }
+
+    #identity img { width: 75%; margin: 0 12.5%; }
+
+    /* Patch */
+
+    #content .publication .image { display: none; }
+    #content .publication .description b { text-align: center;}
+
+}
+
+/* 480 ≤ Window Width < 768 */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    body { font-size: 18px; line-height: 24px; }
+
+    h1 { font-size: 26px; line-height: 20px; margin-bottom: 10px; }
+    h2 { font-size: 21px; line-height: 20px; margin-bottom: 10px; }
+    h3 { font-size: 20px; line-height: 19px; margin-bottom: 8px; }
+    h4 { font-size: 18px; line-height: 18px; margin-bottom: 6px; }
+    h5 { font-size: 16px; line-height: 22px; }
+    h6 { font-size: 14px; line-height: 14px; }
+    p { font-size: 16px; line-height: 21px; }
+
+    button { font-size: 16px; line-height: 22px; padding: 16px 0; }
+
+    input, textarea, select { font-size: 16px; line-height: 24px; padding: 9px 13px 11px 13px; margin-bottom: 10px; }
+
+    #identity img { width: 66%; margin: 0 17%; }
+
+    /* Patch */
+
+    #content .publication .image { display: none; }
+    #content .publication .description b { text-align: center;}
+
+}
+
+/* 768 ≤ Window Width */
+
+@media only screen and (min-width: 768px) {
+
+    body { font-size: 18px; line-height: 24px; }
+
+    h1 { font-size: 32px; line-height: 24px; margin-bottom: 14px; }
+    h2 { font-size: 18px; line-height: 20px; margin-bottom: 8px; }
+    h3 { font-size: 22px; line-height: 21px; margin-bottom: 8px; }
+    h4 { font-size: 21px; line-height: 21px; margin-bottom: 6px; }
+    h5 { font-size: 17px; line-height: 24px; }
+    h6 { font-size: 15px; line-height: 15px; }
+    p { font-size: 18px; line-height: 23px; }
+
+    button { font-size: 17px; line-height: 24px; padding: 20px 0; }
+
+    input, textarea, select { font-size: 18px; line-height: 27px; padding: 11px 15px 13px 15px; margin-bottom: 10px; }
+
+    #identity img { width: 50%; margin: 0 25%; }
+
+}

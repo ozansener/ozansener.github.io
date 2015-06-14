@@ -1,0 +1,10 @@
+{
+  "title": "Error-tolerant Interactive Image Segmentation using Dynamic and Iterated Graph-Cuts",
+  "authors": "Ozan Sener, Kemal Ugur, Aydin Alatan",
+  "venue": "ACM Workshop on Interactive Multimedia on Mobile and Portable Devices 2012",
+  "sbrackets":{
+    "PDF":"pdfs/sener_error_tolerant.pdf"
+    },
+  "alias":"dyncut",
+  "type":"conference"
+}

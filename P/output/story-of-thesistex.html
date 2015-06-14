@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <title>ozan</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="description" content=>
+        <meta name="author" content=>
+        <meta property="og:title" content= />
+        <meta property="og:url" content= />
+        <meta property="og:image" content= />
+        <meta property="og:description" content=/>
+
+        <link type="text/css" rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.8.0/build/cssreset/cssreset-min.css">
+        <link type="text/css" rel="stylesheet" href="/theme/css/grid.css">
+        <link type="text/css" rel="stylesheet" href="/theme/css//style.css">
+        <link type="text/css" rel="stylesheet" href="/theme/css/responsive.css">
+        <link type="text/css" rel="stylesheet" href="http://fast.fonts.net/cssapi/f9c46238-0519-490a-9de7-04b3a7acae4f.css"/>
+        <link type="text/css" rel="stylesheet" href="/theme/css/leaflet.css">
+
+                <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <script src="http://code.jquery.com/jquery-1.9.0.js"></script>
+        <script type="text/javascript">
+            $(window).scroll(function() {
+                if ($(this).scrollTop() >= 160) {
+                    $('#control').addClass('fixed');
+                }
+                else if ($(this).scrollTop() < 160) {
+                    $('#control').removeClass('fixed');
+                }
+            });
+        </script>
+        <script type="text/javascript" src="/theme/js/leaflet.js"></script>
+        <script type="text/javascript" src="/theme/js/leaflet-providers.js"></script>
+</head>
+
+<body>
+      <!-- Identity (beginning) -->
+          <div id="identity">
+              <div class="container">
+                  <div class="six column">
+                   <img src=/images/ozansener-typographic.png />
+                  </div>
+              </div>
+          </div>
+      <!-- Identity (end) -->
+
+      <!-- Control (beginning) -->
+      <div id="control">
+          <div id="control-inner">
+              <div class="container">
+                  <div class="six column">
+                      <ul id="navigation">
+                          <li class="menu-item" style="display: none;"><a href="#identity" title="Identity"></a></li>
+                            <li class="menu-item"><a href=index.html title=About>About</a></li>
+                            <li class="menu-item"><a href=publications.html title=Publications>Publications</a></li>
+                            <li class="menu-item"><a href=contact.html title=Contact>Contact</a></li>
+                      </ul>
+                      <div class="clear"></div>
+                  </div>
+              </div>
+              <div class="clear"></div>
+          </div>
+      </div>
+      <!-- Control (end) -->
+
+<!-- Content (beginning) -->
+<div id="content" class="section">
+          <div class="container">
+              <div class="six column">
+                <div class="content-wrapper">
+                  <h1>Story of Thesis.tex</h1>
+                <p>Since I finished writing my Master thesis and waiting for reviews of my advisor, I have a bit time for some side projects. Here comes one of them. Main motivation of this side project comes from a PhD Comics “A story in file names” comic.</p></p>
+<p><img alt="" src="http://www.phdcomics.com/comics/archive/phd052810s.gif" title="Story" /></p>
+<p>Situation visualized in the comic is pretty common for most of us; filenames modification dates and all other metadata actually tell a
+story about the file, experience and us. Hence, my main motivation was capturing the story told via metadata of the file. Since I synced my
+entire thesis with Dropbox, I had an extensive amount of metadata. Dropbox keeps all revisions of the files with modification dates and
+revision numbers.</p>
+<p>I have implemented a script using Dropbox Python API, and fetched all  versions of my thesis files. Then, I have included some statistics
+computation in my small script. I computed the word count of each file in each revision -time instant-. Finally, I dumped this huge revision,
+time and word count log into a CSV file. Since Dropbox synced all modifications almost instantly and I saved my files after each
+paragraph, I had time instant for the each paragraph I have written in my thesis. Then, I plot this data by using Mathmetica and <a href="" title="http://mathematica.stackexchange.com/questions/11350/xkcd-style-graphs">XKCD like plotting</a>. I included some of the figures below and their corresponding stories. You can also reach source code to produce the following graphs through <a href="https://github.com/ozansener/storyoffile">https://github.com/ozansener/storyoffile</a></p>
+<p><img src="/images/day.png" width="720"></p>
+
+<p>First graph is the number of words vs calendar days. As shown in the Figure, I have started to write my thesis in Mar 14 by copy/paste’ing
+all my papers into a single file. Then, for 8 days I did not even write a word. This time was simply spent to accept the fact that combination of
+ the papers is not a thesis. March 23 is the motivation boost day. I finished introduction completely, written some of the Graph Theory
+chapter. Then, comes 9 days of procrastination, motivation boost, 6 days of procrastination and final motivation to finish the thesis. I am not
+surprised to see my motivation spikes and long procrastination times since I generally work with high motivations for a short amount of time.</p>
+<p><img alt="" src="/images/dayow.png" /></p>
+<p>Second graph is the number of words vs day of the week. Apparently, Friday is a procrastination day for me. I couldn’t believe I almost did
+not work on Fridays. Sunday is generally juggling and relaxation day. So, inefficiency of the sunday is understandable. Inefficiency of the
+Wednesday comes from a small TA meeting. Although it takes only 1 hour, It significantly decrease my efficiency. Graph also suggests that I
+experience sort of a Monday syndrome :p</p>
+<p><img alt="" src="/images/hour.png" /></p>
+<p>Final graph is the number of words vs hour of the day. Interestingly, I wrote almost all of my thesis between 19:00 and 20:00. I believe this
+ is due to  my laziness to go home and stay in the lab after dinner (generally between 18:00-19:00). Then, I start to procrastinate or go
+drinking etc. Since lab is pretty empty between 18:00 and 19:00 I have almost no distraction. My lunch  (13:00-14:00) and dinner time are also
+clearly visible in the graph. My waking up process looks like finishing around 11:00. Hence, I am pretty useless until 11:00. Finally, after
+15:00 I believe I start to get bored and start to procrastinate.</p>
+<p>In conclusion, every data has a story in it. Indeed, metadata of the files in the Dropbox is not an exception. Visualizing the story of any
+file is a great fun and is suggested to everyone. If you have some knowledge of python and some data analysis tool (Numpy/Scipy,
+Mathmetica, Matlab, Excel), you could also extract the story of the file  synced by Dropbox. My scripts are entirely open source and can be
+reached via  <a href="https://github.com/ozansener/storyoffile">https://github.com/ozansener/storyoffile</a>  I am also open to any comments or suggestions.</p>
+
+                </div>
+              </div>
+                <div class="clear"></div>
+            </div>
+</div>
+<!-- Content (end) -->
+
+    <!-- Content (end) -->
+</body>
+</html>
+<!--
+designed by ozanilbey
+ozanilbey.com
+-->

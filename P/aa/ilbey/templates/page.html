@@ -1,0 +1,60 @@
+{% extends "base.html" %}
+{% block content %}
+<!-- Content (beginning) -->
+<div id="content" class="section">
+          {% if page.title=="Publications" %}
+          <div class="container">
+              <div class="six column">
+                <h1>Papers</h1>
+                {% for pub in page.PUBLICATIONS %}
+                  <div class="publication content-wrapper">
+                    <div class="container">
+                        <div class="one column">
+                            <span class="image" style="background-image: url('{{SITEURL}}/images/thumbnails/{{pub.alias}}.png');"></span>
+                        </div>
+                        <div class="five column">
+                            <span class="description">
+                                <b>{{pub.title}}</b>
+                                <p>{{pub.authors}}<br>{{pub.venue}} [{% for ke in pub.links %}<a href={{ke.target}}>{{ke.value}}</a>{% if not loop.last %} | {% endif %}{% endfor %}]</p>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+              </div>
+                <div class="clear"></div>
+            </div>
+            <div class="container">
+                <div class="six column">
+                  <h1>Patents</h1>
+                  {% for pub in page.PATENTS %}
+                    <div class="publication content-wrapper">
+                      <div class="container">
+                        <div class="one column">
+                            <span class="image" style="background-image: url('{{SITEURL}}/images/thumbnails/{{pub.alias}}.png');"></span>
+                        </div>
+                          <div class="five column">
+                              <span class="description">
+                                <b>{{pub.title}}</b>
+                                <p>{{pub.authors}}<br>{{pub.venue}} [{% for ke in pub.links %}<a href={{ke.target}}>{{ke.value}}</a>{% if not loop.last %} | {% endif %}{% endfor %}]</p>
+                              </span>
+                          </div>
+                      </div>
+                  </div>
+                  {% endfor %}
+                </div>
+                    <div class="clear"></div>
+                </div>
+          {% else %}
+          <div class="container">
+              <div class="six column">
+                <div class="content-wrapper">
+                  {{ page.content }}
+                </div>
+              </div>
+                <div class="clear"></div>
+            </div>
+          {% endif %}
+</div>
+<!-- Content (end) -->
+{% endblock %}

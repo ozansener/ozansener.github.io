@@ -1,0 +1,10 @@
+{
+  "title": "Efficient MRF Energy Propagation for Video Segmentation via Bilateral Filters",
+  "authors": "Ozan Sener, Kemal Ugur, Aydin Alatan",
+  "venue": "IEEE Transactions on Multimedia(TMM), Volume: 16, Issue: 5",
+  "sbrackets":{
+    "PDF":"pdfs/sener_mrf_prop_tmm.pdf"
+    },
+  "alias":"tmm",
+  "type":"conference"
+}
