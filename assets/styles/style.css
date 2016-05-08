@@ -3,7 +3,7 @@ body { color: rgba(60, 60, 64, 1); background-color: white; font-family: Lato, s
 /* Defaults */
 
 body, a, b, p, h1, h2, h3, h4, h5, h6, span, del, button, .bold { font-weight: 300; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: 100%; }
-button, b, h1, h2, h3, h4, h5, h6, .bold { font-family: Lato, sans-serif;font-weight: 300; }
+button, b, h1, h2, h3, h4, h5, h6, .bold { font-family: Lato, sans-serif;font-weight: 400; }
 i { font-family: 'Unit Offc W02 Light Italic'; }
 input, textarea, select, button { width: 100%; box-sizing: border-box; }
 ::selection { background-color: rgba(240, 60, 30, 1); color:white; text-shadow: none; }
