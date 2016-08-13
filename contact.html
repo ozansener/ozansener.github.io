@@ -65,7 +65,7 @@
     <div id="control">
         <div id="control-inner">
             <div class="container">
-                <div class="six column">
+                <div class="six column" id="textone">
                     <ul id="navigation">
                         <li class="menu-item" style="display: none;"><a href="#identity" title="Identity"></a></li>
                         <li class="menu-item"><a href="index.html" title="About">About</a></li>
@@ -75,6 +75,18 @@
                     </ul>
                     <div class="clear"></div>
                 </div>
+                <div class="six column" id="imgone">
+                    <ul id="navigation">
+                        <li class="menu-item" style="display: none;"><a href="#identity" title="Identity"></a></li>
+
+                        <li class="menu-item"><a href="index.html" title="About"><img height="24px" src="assets/images/home.png"></a></li>
+                        <li class="menu-item"><a href="publications.html" title="Publications"><img height="24px" src="assets/images/pub.png"></a></li>
+                        <li class="menu-item"><a href="https://medium.com/@ozansener" title="Blog"><img height="24px" src="assets/images/medium.png"></a></li>
+                        <li class="menu-item"><a href="contact.html" title="Contact"><img height="24px" src="assets/images/map.png"></a></li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+
             </div>
             <div class="clear"></div>
         </div>
@@ -89,8 +101,8 @@
                     <div class="map">
                         <div tabindex="0" class="leaflet-container" id="map" style="width: inherit; height: 227px; position: relative;"></div>
                         <script>
-                            var map = L.map('map').setView([37.4310000,-122.1734962], 16);
-                            L.tileLayer.provider('MapQuestOpen.OSM').addTo(map);
+                            var map = L.map('map').setView([37.4310000,-122.1734962], 12);
+                            L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/outdoors-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoib3phbnNlbmVyIiwiYSI6ImNpcnNnaHR6bjBpamxmbG04anVyMG92MXkifQ.Sly0PlNhIxYLKK-JGgNdMQ').addTo(map);
                             L.marker([37.4301523,-122.1734962]).addTo(map)
                             .bindPopup('<b style="font-size: 14px; line-height: 14px; margin-right: -15px;">Gates Building 142<br>Stanford, CA</b><br>os79[at]cornell[dot]edu', {
                                 offset: new L.Point(0,-40),

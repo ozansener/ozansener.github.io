@@ -22,7 +22,11 @@
     
     #content .publication .image { display: none; }
     #content .publication .description b { text-align: center;}
-    
+
+    #textone {display: none;}    
+    #control ul#navigation li a { height: 60px; color: rgba(60, 60, 64, 1); font-size: 24px; line-height: 24px; display: inline-block; cursor: pointer; text-decoration: none; padding: 17px 18px 19px 18px; box-sizing: border-box; }
+
+
 }
 
 /* 480 ≤ Window Width < 768 */
@@ -49,7 +53,10 @@
     
     #content .publication .image { display: none; }
     #content .publication .description b { text-align: center;}
-    
+
+    #imgone {display: none;}  
+    #control ul#navigation li a { height: 60px; color: rgba(60, 60, 64, 1); font-size: 24px; line-height: 24px; display: inline-block; cursor: pointer; text-decoration: none; padding: 17px 19px 1px 1px; box-sizing: border-box; }
+ 
 }
 
 /* 768 ≤ Window Width */
@@ -71,5 +78,8 @@
     input, textarea, select { font-size: 18px; line-height: 27px; padding: 11px 15px 13px 15px; margin-bottom: 10px; }
     
     #identity img { width: 50%; margin: 0 25%; }
-    
+
+    #imgone {display: none;}    
+    #control ul#navigation li a { height: 60px; color: rgba(60, 60, 64, 1); font-size: 24px; line-height: 24px; display: inline-block; cursor: pointer; text-decoration: none; padding: 17px 18px 19px 18px; box-sizing: border-box; }
+
 }
