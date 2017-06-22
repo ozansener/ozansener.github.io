@@ -1,0 +1,273 @@
+%______________________________________________________________________________________________________________________
+% @brief    LaTeX2e Resume for Kamil K Wojcicki
+\documentclass[margin,line,10pt]{resume}
+\usepackage{color}
+
+
+\newcommand{\metu}{\hspace{0.6mm}$^{m}$}
+\newcommand{\cornell}{\hspace{0.6mm}$^{c}$}
+\newcommand{\stanford}{\hspace{0.6mm}$^{s}$}
+
+
+\usepackage{fontspec}
+\setmainfont[Color=primary, Path = ffunit/,BoldItalicFont=UnitSlabPro-BoldIta,BoldFont=UnitSlabPro-Bold,ItalicFont=UnitOT-LightIta]{UnitOT-Light}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text, Path = ffunit/]{UnitSlabPro-Light}
+
+\usepackage{xcolor}
+
+\makeatletter
+\newcommand{\globalcolor}[1]{%
+  \color{#1}\global\let\default@color\current@color
+}
+\makeatother
+
+\definecolor{ogray}{RGB}{60,60,64}
+\definecolor{olgray}{RGB}{150,150,160}
+
+\AtBeginDocument{\globalcolor{ogray}}
+% 606064 3c3d40 all font colors
+%______________________________________________________________________________________________________________________
+\begin{document}
+\name{\hspace{1in}{\Large Ozan Sener,} \hfill www.ozansener.net \hspace{24mm}}
+\begin{resume}
+
+    %__________________________________________________________________________________________________________________
+    % Contact Information
+    \section{\mysidestyle \textcolor{olgray}{Contact\\Information}}
+    142 Gates Hall, 353 Serra Mall        \hfill voice: +1 607 379 47 39          \vspace{0mm}\\\vspace{0mm}%
+    Stanford University, CA 94305 \hfill e-mail: ozan@cs.stanford.edu \vspace{0mm}\\\vspace{0mm}%
+    %      \hfill  \vspace{0mm}\\\vspace{-4.5mm}%
+
+    %__________________________________________________________________________________________________________________
+
+   %Interest
+    \section{\mysidestyle \textcolor{olgray}{Interest}}
+Broadly, I am interested in designing machine learning algorithms which can process large-amount of multi-modal information with no/weak supervision.  I have designed algorithms which scaled to tens of thousands of videos, point clouds with hundreds of millions of points and deployed them in robots, mobile devices and homes. I mostly worked on parsing/segmentation problems in robot perception and mobile multimedia, using graphical models, metric learning and deep learning. In general, I am interested in any problem related to machine learning and large-scale data.
+    %This requires designing systems which can handle large-scale data of various modalities. It also requires designing algorithms which can discover latent structure of the data
+    
+
+    % Education
+    \section{\mysidestyle \textcolor{olgray}{Education}}
+    \textbf{Cornell University}, Ithaca, NY \hfill  2016 \vspace{1mm}\\\vspace{0mm}%
+    PhD in Computer Engineering \hfill GPA: 4.06/4.00   \vspace{0mm} \\%
+    Advisor(s): Ashutosh Saxena , Silvio Savarese (Stanford) \\% %, David Mimno (Cornell), David Mimno (Cornell)\vspace{0mm}\\\vspace{0mm} 
+    \hspace{-1mm} Thesis: 
+    Learning from large-scale visual data for robots.
+    %Learning to represent large-scale visual data for robot perception.
+    %Large-scale machine learning algorithms for 3D vision.
+
+    \textbf{Middle East Technical University}, Ankara, Turkey  \hfill 2012 \vspace{1mm}\\\vspace{0mm}%
+    BS and MS in Electrical and Electronics Engineering  \hfill GPA: 3.93(MS), 3.88(BS)/4.00 \vspace{0mm} \\\vspace{0mm}%
+	  Thesis Advisor: Ayd\i n Alatan \hfill \vspace{0mm}\\\vspace{0mm}
+	  \hspace{-1mm}An Efficient Graph-Theoretical Approach for Interactive Mobile Image \& Video Segmentation  \hfill \vspace{0mm}\\\vspace{-5mm} \\ %
+%    \textbf{Middle East Technical University}, Ankara, Turkey \hfill September 2005 \textendash ~June 2010 \vspace{1mm}\\\vspace{0mm}%
+%    BS in Electrical and Electronics Engineering \hfill GPA: 3.88/4.00 \vspace{0mm} \\\vspace{0mm}%
+%	Class Rank: $5^{th}$ out of 275 graduates  \vspace{0mm} \\\vspace{0mm}%
+
+
+  %\textbf{Stanford University}, Stanford, CA \hfill August 2014 \textendash ~Present \vspace{1mm}\\\vspace{0mm}%
+ % Visiting Researcher in AI Lab   \hfill    \vspace{0mm} \\\vspace{-5mm}%
+%    Co-Advisors: Ashutosh Saxena, Silvio Savarese \\ %, David Mimno (Cornell), David Mimno (Cornell)\vspace{0mm}\\\vspace{0mm}
+%    %\hspace{-1mm}Large-scale machine learning algorithms for 3D vision.
+
+
+\section{\mysidestyle \textcolor{olgray}{Honours \\and Awards}}
+10 Breakthrough Technologies in 2016 by MIT Technology Review (Robots sharing knowledge) \hfill 2016 \vspace{1mm}\\
+Invited Talk at AAAI 2016\hfill 2016 \vspace{1mm}\\
+Jacobs Scholar Fellowship \hfill 2013 \vspace{1mm}\\
+METU Best Master Thesis Award \hfill  2012 \textendash ~2013{\color{white}.}\vspace{1mm}\\
+IEEE-eXtreme Programming Competition 5.0,  (1st place Nationwide, 8th place Europe) \hfill 2012{\color{white}.}\vspace{1mm}\\
+METU Electrical Engineering Bachelor Thesis Award  \hfill 2010 \vspace{1mm}\vspace{1mm}\\
+XPLORE New Automation Award (Top 17 projects worldwide in the category of recreation)  \hfill 2009 \vspace{1mm}\vspace{1mm}\\
+IEEE Foundation Grant Recipient \hfill 2009 \vspace{1mm}\vspace{1mm}\\
+Chairperson, IEEE Computer Society METU Student Branch \hfill 2007 \textendash ~2008 \vspace{1mm}\vspace{1mm} \\
+Dr Bulent Kerim Altay Award  (given by the METU EE Department to the student \hfill 2006 \textendash ~2007{\color{white}.}\\ who ranks first in his/her class) \vspace{1mm}\vspace{1mm}\\
+National Olympiad in Informatics (Regional degree - 1st place) \hfill 2004 \vspace{1mm}\vspace{1mm}\\
+\vspace{-4mm}
+
+
+    \section{\mysidestyle \textcolor{olgray}{Professional\\Experience}}
+    
+    \textbf{Brain of Things}, Redwood City, CA \hfill December 2015 \textendash ~Present\vspace{0mm}\\\vspace{0mm}
+    \hspace{-1.5mm} Lead Machine Learning Engineer \& Co-Founder  \hfill \vspace{-5mm} \\
+
+Was part of the team from 3 people to 10+ people, interviewed engineers, designed system architectures and scaled the company from 1 house to 100+ houses all over California. 
+
+On the technical side; developed a multi-sensor machine learning algorithm which can track humans in a smart-environment using motion sensors and cameras. And, developed machine learning algorithms to learn human preferences in a smart environment.
+
+
+    \textbf{Artificial Intelligence Laboratory}, Stanford University, CA \hfill August 2014 \textendash ~ August 2016 \vspace{0mm}\\\vspace{0mm}
+  \hspace{-1mm}Visiting Scholar  \hfill \vspace{1.5mm} \\
+  Advised by Prof. Silvio Savarese and Prof. Ashutosh Saxena.
+
+Developed a transductive machine learning algorithm for unsupervised domain adaptation problem. The resulting algorithm enables machine learning models to be trained on one domain and used in other ones \emph{(in submission)}.
+
+\newpage
+  Developed a structured parsing algorithm which can parse large point clouds of buildings into its semantic elements near real time. \emph{(in CVPR 2016)}.
+
+  Developed a large-scale, unsupervised video understanding framework using category specific youtube videos. The resulting algorithm can parse large collection of videos by discovering the underlying activities. \emph{(in ICCV 2015)}.
+
+  Designed a large-scale multi-modal processing and storage system which scales to millions of videos, images and text as a part of the RoboBrain (\emph{www.robobrain.me}) project \emph{(in ISRR 2015)}.
+
+%\newpage
+
+    \textbf{Robot Learning Research Group}, Cornell University, Ithaca, NY \hfill August 2013 \textendash ~ August 2014\vspace{0mm}\\\vspace{0mm}
+	\hspace{-1mm}Research Assistant  \hfill \vspace{1.5mm} \\
+	Advised by Prof. Ashutosh Saxena.
+
+	Studied structured diversity and developed an efficient learning algorithm for graphical models with hidden nodes \emph{(in the process of submission)}.
+
+	Developed an human activity anticipation algorithm using RGB-D data. Proposed a novel inference mechanism -rCRF- in order to efficiently and accurately represent a belief over any CRF model using structured diversity \emph{(in RSS 2015 and invited talk at AAAI 2016)}.
+
+    \textbf{Multimedia Research Group}, METU, Ankara, Turkey \hfill February 2011 \textendash ~August 2013\vspace{0mm}\\\vspace{0mm}
+	\hspace{-1mm}Research Assistant  \hfill \vspace{2mm}\\\vspace{0mm}
+	\hspace{-1mm}\emph{Worked in collaboration with Nokia Research Center, Tampere.} \\
+	Advised by Prof. Ayd\i n Alatan (METU) and Dr. Kemal Ugur (Nokia Research Center, Tampere).
+
+	Developed an efficient interactive video segmentation algorithm via Markov random field energy propagation. Proposed a dynamic method to reuse residual-flows in filtering scenario for time efficiency \emph{(in Transaction on Multimedia 2013)}.
+
+	Developed a method efficiently solving interactive image segmentation problem via dynamic and iterative graph-cuts. Furthermore, improved the robustness of the method via automatic correction of user interaction errors \emph{(in ACM-MM-W 2012, ICIP 2012)}.
+	
+	Involved in patent application and deployed part of the developed algorithms to production on Nokia N9.
+
+    \textbf{Siemens Corporate Research}, Princeton, NJ \hfill August 2010 \textendash ~February 2011\vspace{0mm}\\\vspace{0mm}
+	\hspace{-1mm}Research Intern in Imaging, Analytics and Informatics Department  \hfill \vspace{0mm}\\\vspace{0mm}
+	\hspace{-1mm}Advised by Dr. Bogdan Georgescu and Dr. Yang Wang \hfill \vspace{2mm}\\\vspace{0mm}
+	\hspace{-1.4mm}Contributed to the development of the LVA(Left Ventricle Anatomy) software. Developed a learning based method for automatic classification of volume contrast echocardiography data.
+
+    \textbf{Signal Processing Laboratory 4}, EPFL, Switzerland \hfill July 2009 \textendash ~September 2009\vspace{0mm}\\\vspace{0mm}
+	\hspace{-1mm}Research Intern  \hfill \vspace{0mm}\\\vspace{0mm}
+	\hspace{-1mm}Advised by Prof. Pascal Frossard \hfill \vspace{2mm}\\\vspace{0mm}
+	\hspace{-1mm}Worked on the similarity analysis of observations under affine projections. Developed a distance metric to be used in multi-view classification problems. Implemented and tested proposed distance metric in graph based multi-view object classification algorithm.
+
+    \hspace{-0.5mm}\textbf{Vestel Electronics R\&D Corporation}, Ankara, Turkey \hfill July 2008 \textendash ~September 2008\vspace{0mm}\\\vspace{0mm}
+	\hspace{-1mm}Summer Intern  \hfill \vspace{0mm}\\\vspace{0mm}
+	\hspace{-1mm}Worked on the frame rate conversion project. Implemented a computationally efficient true motion estimation system by combining block-based and optical-flow based techniques.
+
+%	\newpage
+
+
+    \section{\mysidestyle \textcolor{olgray}{Patents}}
+	K.~Ugur, O.~Sener, E.~Gundogdu, and A.~Alatan.
+	\newblock { Interactive Image/Video Segmentation For Mobile 2D/3D Conversion}.
+	\newblock International Patent Application, WO 2013144418 A1
+	\vspace{-2mm}
+
+\newpage
+
+\section{\mysidestyle \textcolor{olgray}{Publications}}
+
+O.~Sener, H.~O. Song, A.~Saxena, S.~Savarese.
+\newblock Unsupervised Transductive Domain Adaptation. 
+\newblock In {\em submission}.
+\vspace{-2mm}
+
+I. ~Armeni, O.~Sener, A.~Zamir, S.~Savarese.
+\newblock 3D Semantic Parsing of Large-Scale Indoor Spaces
+\newblock In {\em Computer Vision and Pattern Recognition, CVPR 2016 (oral)}.
+\vspace{-2mm}
+
+O.~Sener, A.~Zamir, S.~Savarese, A.~Saxena.
+\newblock Unsupervised Semantic Parsing of Video Collections.
+\newblock In {\em International Conference on Computer Vision, ICCV 2015}.
+\vspace{-2mm}
+
+O.~Sener, A.~Saxena.
+\newblock rCRF: Recursive Estimation of the Beliefs over CRFs for Activity Analysis in RGB-D Videos.
+\newblock In {\em Robotics Science and Systems, RSS 2015}.
+\vspace{-2mm}
+
+A.~Saxena, A.~Jain, O.~Sener, A.~Jami, DK.~Misra, HS.~Koppula.
+\newblock RoboBrain: Large-Scale Knowledge Engine for Robots.
+\newblock In {\em International Symposium on Robotics Research, ISRR 2015}.
+\vspace{-2mm}
+
+O.~Sener, K.~Ugur, and A.~A. Alatan.
+\newblock Efficient MRF Energy Propagation for Video Segmentation via Bilateral Filters.
+\newblock In {\em Multimedia, IEEE Transactions on}, vol. 16, no. 5, pp. 1292–1302, Aug 2014.
+
+
+Y.~Aksoy. O.~Sener, A.~A. Alatan and K.~Ugur.
+\newblock Interactive 2d-3d image conversion for mobile devices.
+\newblock In {\em IEEE International Conference on Image Processing}, 2012.
+\vspace{-2mm}
+
+	O.~Sener, K.~Ugur, and A.~A. Alatan.
+	\newblock Error-tolerant interactive image segmentation using dynamic and iterated graph-cuts.
+	\newblock In {\em Proceedings of the 2nd international workshop on Interactive multimedia on mobile and portable devices}, ACM Multimedia Workshop.
+  %  \newpage
+
+    O.~Sener, K.~Ugur, and A.~A. Alatan.
+	\newblock Robust interactive segmentation via coloring.
+	\newblock In {\em Proceedings of the 1st International Workshop on Visual
+  	Interfaces for Ground Truth Collection in Computer Vision Applications},
+  	ACM AVI 2012 Workshop.
+
+
+
+
+
+
+
+    %__________________________________________________________________________________________________________________
+    % Referees
+   % \section{\mysidestyle References}
+   % {\sl Available on request.}
+
+
+
+
+\iffalse
+\section{\mysidestyle \textcolor{olgray}{Teaching\\Experience}}
+\textbf{Cornell University}, Ithaca, NY \hfill January 2014 \textendash ~May 2014 \vspace{0mm}\\\vspace{0mm}%
+Department of Electrical and Computer Engineering \hfill \vspace{-7mm}\\\vspace{0mm}
+
+Teaching Assistant for Embedded Systems  \hfill \vspace{0mm}\\\vspace{0mm}
+\vspace{-4mm}
+
+\textbf{Anonymous Student Evaluations (AverageRating: 4.33/5.0)} \\
+\emph{``Great attitude, clear command over material. Carefully and clearly explains concepts."}
+
+\emph{``Ozan is very attentive to students who come to his office hours. He is quick to identify problems and guide students to the right solution. He knows when there are a lot of students waiting for help and does his best to attend to as many as he can."}
+
+\emph{``Explained lab-related concepts well. Friendly and personable guy."}
+
+\emph{``A very effective
+communicator and is able to explain things very clearly."}
+
+\textbf{Middle East Technical University}, Ankara, Turkey \hfill January 2012 \textendash ~June 2013 \vspace{0mm}\\\vspace{0mm}%
+Department of Electrical and Electronics Engineering \hfill \vspace{-7mm}\\\vspace{0mm}
+
+Teaching Assistant for Digital Signal Processing, Computer Architecture and Data Structures \hfill \vspace{0mm}\\\vspace{0mm}
+\vspace{-4mm}
+\fi
+
+\section{\mysidestyle \textcolor{olgray}{Related Coursework}}
+\hspace{0mm}\textbf{Machine Learning:} Advanced Topics in Machine Learning\cornell, Algorithmic Perspective on Machine Learning\stanford,  Pattern Recognition\metu, Artificial Intelligence\metu, Statistical Techniques in Mobile Robotics\metu \vspace{0mm}\\\vspace{0mm}
+\hspace{-1mm}\textbf{Probability and Stochastic Processes:} Measure Theoretic Probability\cornell, Applied Stochastic Processes\cornell,  Signal Analysis and Processing\metu, Adaptive Signal Processing\metu, Information Theory\metu \\
+\textbf{Analysis and Algebra:} Analysis\cornell, Matrix Computations\cornell , Linear System Theory\metu, Functional Analysis and Operator Theory with App.\metu\\\vspace{0mm}
+\hspace{-1.5mm} Offered by \stanford Stanford University, \cornell Cornell University and \metu Middle East Technical University.
+
+
+
+\section{\mysidestyle \textcolor{olgray}{Professional Activities}}
+  \textbf{Service:} Reviewer for NIPS, ICCV, CVPR, ICRA, WACV, Signal Processing Letters, Transactions on Multimedia \\
+\textbf{Memberships:} Student member of IEEE (since 2006) and ACM (since 2008) \\
+\textbf{Leadership:} Chairperson of IEEE Computer Society METU Student Branch (2007-2008)
+
+\section{\mysidestyle \textcolor{olgray}{Skills}}
+Python (proficient packages: Tensorflow and Numpy), C/C++ (proficient libraries: OpenCV and Boost), Matlab, \LaTeX, Git, GNU/Linux (personal usage and system administration on Debian based distros).
+
+\section{\mysidestyle \textcolor{olgray}{Interests}}
+\textbf{Juggling} (performed at METU Juggling Convention 2011\&2012, attended European Juggling Convention 2011\&2012), \textbf{Math Puzzles \& Games} (game designer for EU Youth Action Project - Puzzle Puzzle 2007, finalist for World Puzzle Federation - Turkey Competition ).
+
+
+\section{\mysidestyle \textcolor{olgray}{Citizenship}} Turkish \hspace{13.9mm} {\mysidestyle \textcolor{olgray}{Language}} \hspace{3.56mm} English and Turkish \hfill {\mysidestyle \textcolor{olgray}{Date of Birth}}  \hspace{3.56mm} September 07, 1988
+
+%______________________________________________________________________________________________________________________
+\end{resume}
+\end{document}
+
+%\fi
+%______________________________________________________________________________________________________________________
+% EOF
