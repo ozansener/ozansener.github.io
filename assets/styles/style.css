@@ -17,8 +17,8 @@ img { width: inherit; }
 
 /* Identity */
 
-#identity { position: relative; margin: 20px 0 10px 0; }
-#identity img { position: relative; margin: 10% auto;  }
+#identity { position: relative; margin: 20px 0 10px 0; text-align: center; }
+#identity img { position: relative; margin: 5% 0;  }
 
 /* Control */
 
