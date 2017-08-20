@@ -22,7 +22,7 @@ img { width: inherit; }
 
 /* Control */
 
-#control { height: 60px; margin-bottom: -60px; z-index: 10000; border-top: 0px solid rgba(240, 60, 30, 1); border-bottom: 1px solid rgba(0, 0, 0, 0); transition: border-top .15s, border-bottom .35s; }
+#control { position: -webkit-sticky; position: sticky; top: 0px; height: 60px; margin-bottom: -60px; z-index: 10000; border-top: 0px solid rgba(240, 60, 30, 1); border-bottom: 1px solid rgba(0, 0, 0, 0); transition: border-top .15s, border-bottom .35s; }
 #control.fixed { position: fixed; top: 0; left: 0; right: 0; height: 60px; z-index: 10000; border-top: 3px solid rgba(240, 60, 30, 1); border-bottom: 1px solid rgba(0, 0, 0, .075); }
 #control.fixed #control-inner { background-color: rgba(251, 251, 251, .925); }
 #control-inner { height: 60px; background-color: rgba(251, 251, 251, .925); line-height: 0; text-align: center; position: relative; z-index: 10000; transition: background-color 0s; }
