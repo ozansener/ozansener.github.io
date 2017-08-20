@@ -18,7 +18,7 @@ img { width: inherit; }
 /* Identity */
 
 #identity { position: relative; margin: 20px 0 10px 0; }
-#identity img { position: relative; }
+#identity img { position: relative; margin: 10% auto;  }
 
 /* Control */
 
