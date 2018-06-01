@@ -55,7 +55,7 @@
     #content .publication .description b { text-align: center;}
 
     #imgone {display: none;}  
-    #control ul#navigation li a { height: 60px; color: #040219); font-size: 24px; line-height: 24px; display: inline-block; cursor: pointer; text-decoration: none; padding: 17px 19px 1px 1px; box-sizing: border-box; }
+    #control ul#navigation li a { height: 60px; color: #040219; font-size: 24px; line-height: 24px; display: inline-block; cursor: pointer; text-decoration: none; padding: 17px 19px 1px 1px; box-sizing: border-box; }
  
 }
 
@@ -80,6 +80,6 @@
     #identity img { width: 40%; }
 
     #imgone {display: none;}    
-    #control ul#navigation li a { height: 60px; color: rgba(60, 60, 64, 1); font-size: 24px; line-height: 24px; display: inline-block; cursor: pointer; text-decoration: none; padding: 17px 18px 19px 18px; box-sizing: border-box; }
+    #control ul#navigation li a { height: 60px; color: #040219; font-size: 24px; line-height: 24px; display: inline-block; cursor: pointer; text-decoration: none; padding: 17px 18px 19px 18px; box-sizing: border-box; }
 
 }
