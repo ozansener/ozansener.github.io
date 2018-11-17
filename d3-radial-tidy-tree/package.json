@@ -1,0 +1,9 @@
+{
+  "name": "d3-radial-tidy-tree",
+  "main": "d3-radial-tidy-tree.js",
+  "version": "145.0.0",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://beta.observablehq.com/@mbostock"
+  }
+}
