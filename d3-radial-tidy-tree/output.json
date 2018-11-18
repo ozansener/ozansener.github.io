@@ -1,0 +1,1420 @@
+{
+    "id": "767922",
+    "name": "Ozan Sener",
+    "children": [
+        {
+            "id": "182555",
+            "name": "Ashutosh Saxena",
+            "children": [
+                {
+                    "id": "100647",
+                    "name": "Andrew\u00a0Y. Ng",
+                    "children": [
+                        {
+                            "id": "757692",
+                            "name": "Andrew\u00a0W. Moore",
+                            "children": [
+                                {
+                                    "id": "757939",
+                                    "name": "William Clocksin",
+                                    "children": [
+                                        {
+                                            "id": "757940",
+                                            "name": "Jim Howe",
+                                            "children": []
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": "236",
+                            "name": "Michael\u00a0I. Jordan",
+                            "children": [
+                                {
+                                    "id": "235",
+                                    "name": "Don Norman",
+                                    "children": [
+                                        {
+                                            "id": "1124",
+                                            "name": "R\u00a0Duncan Luce",
+                                            "children": [
+                                                {
+                                                    "id": "4357",
+                                                    "name": "Irvin\u00a0S. Cohen",
+                                                    "children": [
+                                                        {
+                                                            "id": "4358",
+                                                            "name": "Oscar\u00a0A. Zariski",
+                                                            "children": [
+                                                                {
+                                                                    "id": "6685",
+                                                                    "name": "Federigo Enriques",
+                                                                    "children": []
+                                                                },
+                                                                {
+                                                                    "id": "6686",
+                                                                    "name": "Francesco Severi",
+                                                                    "children": [
+                                                                        {
+                                                                            "id": "6687",
+                                                                            "name": "Corrado Segre",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": "6688",
+                                                                                    "name": "Enrico D'Ovidio",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": "6689",
+                                                                                            "name": "Giuseppe Battaglini",
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "id": "4360",
+                                                                    "name": "Guido Castelnuovo",
+                                                                    "children": [
+                                                                        {
+                                                                            "id": "1952",
+                                                                            "name": "Giuseppe Levi",
+                                                                            "children": []
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "id": "4287",
+                                    "name": "David\u00a0E. Rumelhart",
+                                    "children": [
+                                        {
+                                            "id": "1025",
+                                            "name": "William\u00a0K. Estes",
+                                            "children": [
+                                                {
+                                                    "id": "21921",
+                                                    "name": "Richard\u00a0M. Elliott",
+                                                    "children": [
+                                                        {
+                                                            "id": "161",
+                                                            "name": "Hugo M\u00fcnsterberg",
+                                                            "children": [
+                                                                {
+                                                                    "id": "147",
+                                                                    "name": "Wilhelm Wundt",
+                                                                    "children": [
+                                                                        {
+                                                                            "id": "80970",
+                                                                            "name": "Karl\u00a0Ewald Hasse",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": "517",
+                                                                                    "name": "Ernst\u00a0Heinrich Weber",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": "82008",
+                                                                                            "name": "Ernst\u00a0Florens Friedrich Chladni",
+                                                                                            "children": []
+                                                                                        },
+                                                                                        {
+                                                                                            "id": "52540",
+                                                                                            "name": "Ludwig\u00a0Wilhelm Gilbert",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": "80669",
+                                                                                                    "name": "Georg\u00a0Simon Kl\u00fcgel",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": "624",
+                                                                                                            "name": "Abraham\u00a0Gotthelf K\u00e4stner",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": "625",
+                                                                                                                    "name": "Christian\u00a0August Hausen",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": "28383",
+                                                                                                                            "name": "Johann\u00a0Andreas Planer",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": "28384",
+                                                                                                                                    "name": "Johann Pasch",
+                                                                                                                                    "children": []
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "id": "28385",
+                                                                                                                                    "name": "Rudolf\u00a0Jakob Camerarius",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": "28386",
+                                                                                                                                            "name": "Georg\u00a0Balthasar Metzger",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": "54294",
+                                                                                                                                                    "name": "Johann\u00a0Georg Macasius",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "54295",
+                                                                                                                                                            "name": "Johannes Musaeus",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "54296",
+                                                                                                                                                                    "name": "Georg Gro\u00dfhain",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "54297",
+                                                                                                                                                                            "name": "Paul R\u00f6ber ",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "225581",
+                                                                                                                                                                    "name": "Johann Meyfart",
+                                                                                                                                                                    "children": []
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "id": "62456",
+                                                                                                                                                    "name": "Gottfried M\u00f6bius",
+                                                                                                                                                    "children": []
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "id": "80343",
+                                                                                                                                                    "name": "Johann Jakob von Brunn",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "80346",
+                                                                                                                                                            "name": "Johannes\u00a0Nicolaus Stupanus",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "23306",
+                                                                                                                                                                    "name": "Theodor Zwinger, Sr.",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "24230",
+                                                                                                                                                                            "name": "Petrus Ramus",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "24229",
+                                                                                                                                                                                    "name": "Jacques Toussain",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        },
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "49931",
+                                                                                                                                                                            "name": "Bassiano Landi",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "49932",
+                                                                                                                                                                                    "name": "Giovanni Battista della Monte",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        },
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "49966",
+                                                                                                                                                                            "name": "Vittore Trincavelli",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "49934",
+                                                                                                                                                                                    "name": "Pietro Pomponazzi",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "id": "626",
+                                                                                                                            "name": "Johann Wichmannshausen",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": "34682",
+                                                                                                                                    "name": "August\u00a0Hermann Francke",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": "87550",
+                                                                                                                                            "name": "Esdras Edzardus",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": "87588",
+                                                                                                                                                    "name": "Johann Buxtorf, Jr.",
+                                                                                                                                                    "children": []
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "id": "87589",
+                                                                                                                                                    "name": "Johann\u00a0Georg Dorsche",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "225568",
+                                                                                                                                                            "name": "Johannes Gerhard",
+                                                                                                                                                            "children": []
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "id": "225570",
+                                                                                                                                                            "name": "Johann Himmel",
+                                                                                                                                                            "children": []
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "id": "225592",
+                                                                                                                                                            "name": "Polykarp Leyser",
+                                                                                                                                                            "children": []
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "id": "225575",
+                                                                                                                                                            "name": "Johannes Major",
+                                                                                                                                                            "children": []
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "id": "225591",
+                                                                                                                                                            "name": "Lucas Osiander",
+                                                                                                                                                            "children": []
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "id": "225590",
+                                                                                                                                                            "name": "Theodor Thumm",
+                                                                                                                                                            "children": []
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "id": "225593",
+                                                                                                                                                            "name": "Georg Weinrich",
+                                                                                                                                                            "children": []
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "id": "87529",
+                                                                                                                                            "name": "Johann\u00a0Benedict Carpzov II.",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": "87530",
+                                                                                                                                                    "name": "Martin Geier",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "87531",
+                                                                                                                                                            "name": "Jakob Weller",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "87534",
+                                                                                                                                                                    "name": "Martin Trost",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "87533",
+                                                                                                                                                                            "name": "Laurentius Fabricius",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "87613",
+                                                                                                                                                                                    "name": "Petrus Gayus",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                },
+                                                                                                                                {
+                                                                                                                                    "id": "627",
+                                                                                                                                    "name": "Otto Mencke",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": "81865",
+                                                                                                                                            "name": "Bartholom\u00e4us\u00a0Leonhard Schwendend\u00f6rffer",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": "81869",
+                                                                                                                                                    "name": "Georg\u00a0Tobias Schwendend\u00f6rffer",
+                                                                                                                                                    "children": []
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "id": "8351",
+                                                                                            "name": "Johann\u00a0Christian Rosenm\u00fcller",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": "23743",
+                                                                                                    "name": "Johann\u00a0Gottlob Haase",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": "23836",
+                                                                                                            "name": "Christian\u00a0Gottlieb Ludwig",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": "82058",
+                                                                                                                    "name": "Johann\u00a0Ernst Hebenstreit",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": "82057",
+                                                                                                                            "name": "Johann\u00a0Caspar K\u00fcchler",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": "82059",
+                                                                                                                                    "name": "August\u00a0Quirinus Rivinus",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": "82060",
+                                                                                                                                            "name": "Hermann Conring",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": "82066",
+                                                                                                                                                    "name": "Georg Calixt",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "82070",
+                                                                                                                                                            "name": "Cornelius Martini",
+                                                                                                                                                            "children": []
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "id": "82123",
+                                                                                                                                                    "name": "Conrad Hornejus",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "82071",
+                                                                                                                                                            "name": "Johannes Caselius",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "59585",
+                                                                                                                                                                    "name": "Philipp Melanchthon",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "80358",
+                                                                                                                                                                            "name": "Johannes Reuchlin",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "59634",
+                                                                                                                                                                                    "name": "George Hermonymus",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                },
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "24234",
+                                                                                                                                                                                    "name": "Johannes Argyropoulos",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "82072",
+                                                                                                                                                                    "name": "Joachim Camerarius, Sr.",
+                                                                                                                                                                    "children": []
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "id": "23296",
+                                                                                                                                                    "name": "Franck\u00a0Pieterszoon Burgersdijk",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "23266",
+                                                                                                                                                            "name": "Gilbert Jacchaeus",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "29979",
+                                                                                                                                                                    "name": "Matthias Martinius",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "82113",
+                                                                                                                                                                            "name": "Hieronymus Treutler",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "82112",
+                                                                                                                                                                                    "name": "Nikolaus von Reusner",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        },
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "82114",
+                                                                                                                                                                            "name": "Bernhard Textor",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "id": "11221",
+                                                                                                                                                            "name": "Willebrord Snell van Royen (Snellius)",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "24232",
+                                                                                                                                                                    "name": "Rudolph Snell van Royen (Snellius)",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "24263",
+                                                                                                                                                                            "name": "Valentin Naboth",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "24239",
+                                                                                                                                                                                    "name": "Erasmus Reinhold ",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        },
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "24264",
+                                                                                                                                                                            "name": "Immanuel Tremellius",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "24231",
+                                                                                                                                                                    "name": "Ludolph van Keulen",
+                                                                                                                                                                    "children": []
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "id": "82100",
+                                                                                                                                                    "name": "Johann Wolf",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "23392",
+                                                                                                                                                            "name": "Duncan Liddel",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "756943",
+                                                                                                                                                                    "name": "John Craig",
+                                                                                                                                                                    "children": []
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "756944",
+                                                                                                                                                                    "name": "Paul Wittich",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "753852",
+                                                                                                                                                                            "name": "Valentin Thau",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "754181",
+                                                                                                                                                                                    "name": "Johannes Hommel",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "id": "82101",
+                                                                                                                                                            "name": "Franz Parcovius",
+                                                                                                                                                            "children": []
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "id": "23745",
+                                                                                                                    "name": "Augustin\u00a0Friedrich Walther",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": "23746",
+                                                                                                                            "name": "Johann\u00a0Gottfried von Berger",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": "23747",
+                                                                                                                                    "name": "Augustin\u00a0Heinrich Fasch",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": "8583",
+                                                                                                                                            "name": "Werner Rolfinck",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": "23748",
+                                                                                                                                                    "name": "Daniel Sennert",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "23749",
+                                                                                                                                                            "name": "Jan Jessenius",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "8586",
+                                                                                                                                                                    "name": "Girolamo\u00a0(Hieronymus Fabricus) Fabrici d'Acquapendente",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "8587",
+                                                                                                                                                                            "name": "Gabriel Falloppio",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "8588",
+                                                                                                                                                                                    "name": "Antonio\u00a0Musa Brasavola",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "id": "8584",
+                                                                                                                                                    "name": "Adriaan van den Spieghel",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "8585",
+                                                                                                                                                            "name": "Giulio\u00a0Cesare Casseri",
+                                                                                                                                                            "children": []
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "id": "23744",
+                                                                                                            "name": "Johann\u00a0Christoph Pohl",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": "81033",
+                                                                                                                    "name": "Johann\u00a0Zacharias Platner",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": "23450",
+                                                                                                                            "name": "Michael Alberti",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": "8581",
+                                                                                                                                    "name": "Georg\u00a0Ernst Stahl",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": "8582",
+                                                                                                                                            "name": "Georg\u00a0Wolfgang Wedel",
+                                                                                                                                            "children": []
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "id": "23451",
+                                                                                                                                            "name": "Rudolf\u00a0Wilhelm Krau\u00df (Krauss)",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": "619",
+                                                                                                                                                    "name": "Franz\u00a0(Franciscus Sylvius) de le Bo\u00eb (Dubois)",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "23265",
+                                                                                                                                                            "name": "Adolph Vorstius",
+                                                                                                                                                            "children": []
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "id": "620",
+                                                                                                                                                            "name": "Emmanuel Stupanus",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "24131",
+                                                                                                                                                                    "name": "Esa\u00efe Colladon",
+                                                                                                                                                                    "children": []
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "24132",
+                                                                                                                                                                    "name": "Gaspard Laurent",
+                                                                                                                                                                    "children": []
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "24134",
+                                                                                                                                                                    "name": "Felix Platter",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "6976",
+                                                                                                                                                                            "name": "Guillaume Rondelet",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "6991",
+                                                                                                                                                                                    "name": "Johannes (Jean) Winther von Andernach (Gonthier d' Andernach; Guinterius Andruacus)",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "24135",
+                                                                                                                                                                    "name": "Jacob Zwinger",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "50095",
+                                                                                                                                                                            "name": "Andreas Planer",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "50096",
+                                                                                                                                                                                    "name": "Joannes VISCHER",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "24133",
+                                                                                                                                                                    "name": "Caspar Bauhin",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "93136",
+                                                                                                                                                                            "name": "Johann Bauhin",
+                                                                                                                                                                            "children": [
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "93137",
+                                                                                                                                                                                    "name": "Leonhart Fuchs",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                },
+                                                                                                                                                                                {
+                                                                                                                                                                                    "id": "93138",
+                                                                                                                                                                                    "name": "Konrad Gessner",
+                                                                                                                                                                                    "children": []
+                                                                                                                                                                                }
+                                                                                                                                                                            ]
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "23267",
+                                                                                                                                                                    "name": "Peter Ryff",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "24136",
+                                                                                                                                                                            "name": "Thomas Erastus",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "259",
+                                                    "name": "Burrhus\u00a0Frederick Skinner",
+                                                    "children": [
+                                                        {
+                                                            "id": "256",
+                                                            "name": "Edwin\u00a0G. Boring",
+                                                            "children": [
+                                                                {
+                                                                    "id": "160",
+                                                                    "name": "Edward\u00a0Bradford Titchener",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "3853",
+                                                            "name": "Walter\u00a0S. Hunter",
+                                                            "children": [
+                                                                {
+                                                                    "id": "122",
+                                                                    "name": "James\u00a0Rowland Angell",
+                                                                    "children": [
+                                                                        {
+                                                                            "id": "124",
+                                                                            "name": "John Dewey",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": "9550",
+                                                                                    "name": "George\u00a0Sylvester Morris",
+                                                                                    "children": []
+                                                                                },
+                                                                                {
+                                                                                    "id": "34498",
+                                                                                    "name": "Charles\u00a0Sanders Peirce",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": "24543",
+                                                                                            "name": "Benjamin Peirce",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": "145286",
+                                                                                                    "name": "Nathaniel Bowditch",
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "id": "166",
+                                                                                    "name": "Granville Stanley Hall",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": "195",
+                                                                                            "name": "Henry\u00a0Pickering Bowditch",
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "id": "3854",
+                                                                            "name": "Hermann Ebbinghaus",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": "9551",
+                                                                                    "name": "Friedrich Adolf Trendelenburg",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": "37314",
+                                                                                            "name": "Johann\u00a0Gottfried Jakob Hermann",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": "49696",
+                                                                                                    "name": "Friedrich\u00a0Wolfgang Reiz",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": "31966",
+                                                                                                            "name": "Johann\u00a0Friedrich Christ",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": "31964",
+                                                                                                                    "name": "Karl\u00a0Gottlieb Knorre",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": "31963",
+                                                                                                                            "name": "Johann\u00a0Peter von Ludewig",
+                                                                                                                            "children": []
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "id": "87713",
+                                                                                                                    "name": "Nicolaus\u00a0Hieronymus Gundling",
+                                                                                                                    "children": []
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "id": "31962",
+                                                                                                                    "name": "Christian Thomasius",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": "8564",
+                                                                                                                            "name": "Valentin Alberti",
+                                                                                                                            "children": []
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "id": "8563",
+                                                                                                                            "name": "Jakob Thomasius",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": "31991",
+                                                                                                                                    "name": "Friedrich Leibn\u00fctz",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": "31992",
+                                                                                                                                            "name": "Johann M\u00fcller",
+                                                                                                                                            "children": []
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "id": "81825",
+                                                                                                                            "name": "Johann\u00a0Friedrich Rhetz",
+                                                                                                                            "children": []
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "id": "24257",
+                                                                                                            "name": "Johann\u00a0August Ernesti",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": "24256",
+                                                                                                                    "name": "Johann\u00a0Matthias Gesner",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": "24255",
+                                                                                                                            "name": "Johann\u00a0Franz Buddeus",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": "24254",
+                                                                                                                                    "name": "Michael Walther, Jr.",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": "189454",
+                                                                                                                                            "name": "Johann\u00a0Andreas Quenstedt",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": "753936",
+                                                                                                                                                    "name": "Christoph Nothnagel",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "24250",
+                                                                                                                                                            "name": "Ambrosius Rhodius",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "24251",
+                                                                                                                                                                    "name": "Melchior J\u00f6stel",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "24260",
+                                                                                                                                                                            "name": "Valentin Otto",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        },
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "24248",
+                                                                                                                                                                            "name": "Andreas Schato",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "753846",
+                                                                                                                                                                    "name": "Tycho Brahe",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "24241",
+                                                                                                                                                                            "name": "Caspar Peucer ",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "11239",
+                                                                                                                                                                    "name": "Johannes Kepler",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "87689",
+                                                                                                                                                                            "name": "Matthias Hafenreffer",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        },
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "11240",
+                                                                                                                                                                            "name": "Michael Maestlin",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "24249",
+                                                                                                                                                                    "name": "Ernestus Hettenbach",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "24242",
+                                                                                                                                                                            "name": "Salomon Alberti",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "id": "24253",
+                                                                                                                                            "name": "Aegidius Strauch",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": "24252",
+                                                                                                                                                    "name": "Abraham Calov",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "87634",
+                                                                                                                                                            "name": "Albrecht Linemann",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "87650",
+                                                                                                                                                                    "name": "Johann Strau\u00df",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "87649",
+                                                                                                                                                                            "name": "Vitus M\u00fcller",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        },
+                                                                                                                                                        {
+                                                                                                                                                            "id": "87679",
+                                                                                                                                                            "name": "Johann Behm",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "87686",
+                                                                                                                                                                    "name": "Leonhard Hutter",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "87685",
+                                                                                                                                                                            "name": "Johannes Pappus",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                },
+                                                                                                                                                {
+                                                                                                                                                    "id": "87678",
+                                                                                                                                                    "name": "Andreas Kunad",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "87687",
+                                                                                                                                                            "name": "Johann H\u00f6pner",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "87690",
+                                                                                                                                                                    "name": "Rupertus Meldenius",
+                                                                                                                                                                    "children": []
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "id": "87625",
+                                                                                                                    "name": "Johann\u00a0Christoph Gottsched",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": "87626",
+                                                                                                                            "name": "Georg\u00a0Heinrich Rast",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": "87627",
+                                                                                                                                    "name": "David Blaesing",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": "87636",
+                                                                                                                                            "name": "Georg Wosegin",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": "87635",
+                                                                                                                                                    "name": "Albert Kyper",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "87637",
+                                                                                                                                                            "name": "Otto Heurnius",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "87655",
+                                                                                                                                                                    "name": "Petrus Molinaeus",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "59770",
+                                                                                                                                                                            "name": "Fran\u00e7ois Du Jon, Sr",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                },
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "52565",
+                                                                                                                                                                    "name": "Johan van Heurne",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "87966",
+                                                                                                                                                                            "name": "Cornelius Gemma",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        },
+                                                                                                                                        {
+                                                                                                                                            "id": "87628",
+                                                                                                                                            "name": "Laurentius Weger, Jr.",
+                                                                                                                                            "children": []
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "id": "24259",
+                                                                                            "name": "Georg\u00a0Ludwig K\u00f6nig",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": "24258",
+                                                                                                    "name": "Christian\u00a0Gottlob Heyne",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": "31965",
+                                                                                                            "name": "Johann\u00a0August Bach",
+                                                                                                            "children": []
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "id": "9552",
+                                                                                            "name": "Karl\u00a0Leonhard Reinhold",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": "9553",
+                                                                                                    "name": "Immanuel Kant",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": "24775",
+                                                                                                            "name": "Martin Knutzen",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": "31392",
+                                                                                                                    "name": "Christian Wolff",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": "60507",
+                                                                                                                            "name": "Georg\u00a0Albrecht Hamberger",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": "60508",
+                                                                                                                                    "name": "Johann\u00a0Christoph Sturm",
+                                                                                                                                    "children": [
+                                                                                                                                        {
+                                                                                                                                            "id": "25737",
+                                                                                                                                            "name": "Erhard Weigel",
+                                                                                                                                            "children": [
+                                                                                                                                                {
+                                                                                                                                                    "id": "32567",
+                                                                                                                                                    "name": "Philipp M\u00fcller",
+                                                                                                                                                    "children": [
+                                                                                                                                                        {
+                                                                                                                                                            "id": "32568",
+                                                                                                                                                            "name": "Christoph Meurer",
+                                                                                                                                                            "children": [
+                                                                                                                                                                {
+                                                                                                                                                                    "id": "32570",
+                                                                                                                                                                    "name": "Moritz Steinmetz",
+                                                                                                                                                                    "children": [
+                                                                                                                                                                        {
+                                                                                                                                                                            "id": "24245",
+                                                                                                                                                                            "name": "Georg\u00a0Joachim von Leuchen Rheticus",
+                                                                                                                                                                            "children": []
+                                                                                                                                                                        }
+                                                                                                                                                                    ]
+                                                                                                                                                                }
+                                                                                                                                                            ]
+                                                                                                                                                        }
+                                                                                                                                                    ]
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        },
+                                                                                                                        {
+                                                                                                                            "id": "757699",
+                                                                                                                            "name": "Christoph Pfautz",
+                                                                                                                            "children": []
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        },
+                                                                                        {
+                                                                                            "id": "37313",
+                                                                                            "name": "August Boeckh",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": "37315",
+                                                                                                    "name": "Friedrich\u00a0August Wolf",
+                                                                                                    "children": []
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "id": "125",
+                                                                            "name": "William James",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": "21874",
+                                                                                    "name": "Jeffries Wyman",
+                                                                                    "children": []
+                                                                                }
+                                                                            ]
+                                                                        },
+                                                                        {
+                                                                            "id": "9186",
+                                                                            "name": "Benno Erdmann",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": "37309",
+                                                                                    "name": "Eduard Zeller",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": "60668",
+                                                                                            "name": "Ferdinand\u00a0Christian Baur",
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "id": "37311",
+                                                                                    "name": "Hermann Bonitz",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": "37312",
+                                                                                            "name": "Karl Lachmann",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": "50211",
+                                                                                                    "name": "Georg\u00a0Friedrich Benecke",
+                                                                                                    "children": []
+                                                                                                },
+                                                                                                {
+                                                                                                    "id": "87523",
+                                                                                                    "name": "Christian\u00a0Gottfried Sch\u00fctz",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": "87528",
+                                                                                                            "name": "Johann\u00a0Salomo Semler",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": "31391",
+                                                                                                                    "name": "Siegmund\u00a0Jakob Baumgarten",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": "34681",
+                                                                                                                            "name": "Christian\u00a0Benedict Michaelis",
+                                                                                                                            "children": [
+                                                                                                                                {
+                                                                                                                                    "id": "34070",
+                                                                                                                                    "name": "Johann\u00a0Heinrich Michaelis",
+                                                                                                                                    "children": []
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                },
+                                                                {
+                                                                    "id": "154",
+                                                                    "name": "Harvey\u00a0A. Carr",
+                                                                    "children": []
+                                                                }
+                                                            ]
+                                                        },
+                                                        {
+                                                            "id": "262",
+                                                            "name": "William Crozier",
+                                                            "children": [
+                                                                {
+                                                                    "id": "1035",
+                                                                    "name": "Jacques Loeb",
+                                                                    "children": [
+                                                                        {
+                                                                            "id": "6684",
+                                                                            "name": "Friedrich Goltz",
+                                                                            "children": [
+                                                                                {
+                                                                                    "id": "146",
+                                                                                    "name": "Hermann von Helmholtz",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": "151",
+                                                                                            "name": "Johannes\u00a0Peter M\u00fcller",
+                                                                                            "children": [
+                                                                                                {
+                                                                                                    "id": "80806",
+                                                                                                    "name": "Karl Mayer",
+                                                                                                    "children": [
+                                                                                                        {
+                                                                                                            "id": "78709",
+                                                                                                            "name": "Carl\u00a0Friedrich Kielmeyer",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": "80930",
+                                                                                                                    "name": "Carl\u00a0Heinrich K\u00f6stlin",
+                                                                                                                    "children": [
+                                                                                                                        {
+                                                                                                                            "id": "80927",
+                                                                                                                            "name": "Gottlieb\u00a0Konrad Christian Storr",
+                                                                                                                            "children": []
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                },
+                                                                                                                {
+                                                                                                                    "id": "80936",
+                                                                                                                    "name": "Christian\u00a0Gottlieb Reuss",
+                                                                                                                    "children": []
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        },
+                                                                                                        {
+                                                                                                            "id": "80807",
+                                                                                                            "name": "Wilhelm\u00a0Gottfried Ploucquet",
+                                                                                                            "children": [
+                                                                                                                {
+                                                                                                                    "id": "23449",
+                                                                                                                    "name": "Ferdinand\u00a0Christoph Oetinger",
+                                                                                                                    "children": []
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                },
+                                                                                {
+                                                                                    "id": "81683",
+                                                                                    "name": "Wilhelm\u00a0Heinrich von Wittich",
+                                                                                    "children": [
+                                                                                        {
+                                                                                            "id": "81689",
+                                                                                            "name": "Alfred\u00a0Wilhelm Volkmann",
+                                                                                            "children": []
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "181601",
+                    "name": "Andrew Ng",
+                    "children": []
+                }
+            ]
+        }
+    ]
+}
