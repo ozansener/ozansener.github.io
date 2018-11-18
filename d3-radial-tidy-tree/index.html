@@ -67,7 +67,7 @@ var svg = d3.select("body").append("svg")
   .append("g")
     .attr("transform", "translate(" + diameter / 2 + "," + (diameter / 3 + 100) + ")");
 
-d3.json("./output_PGS.json", function(error, root) {
+d3.json("./output.json", function(error, root) {
   if (error) throw error;
 
   console.log(root)
