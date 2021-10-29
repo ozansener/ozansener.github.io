@@ -1,0 +1,41 @@
+\usepackage{color}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+
+\newcommand{\metu}{\hspace{0.6mm}$^{m}$}
+\newcommand{\cornell}{\hspace{0.6mm}$^{c}$}
+\newcommand{\stanford}{\hspace{0.6mm}$^{s}$}
+
+
+\usepackage{fontspec}
+\setmainfont[Color=primary, Path = ffunit/,BoldItalicFont=UnitSlabPro-BoldIta,BoldFont=UnitSlabPro-Bold,ItalicFont=UnitOT-LightIta]{UnitOT-Light}
+\setsansfont[Scale=MatchLowercase,Mapping=tex-text, Path = ffunit/]{UnitSlabPro-Light}
+
+
+\makeatletter
+\newcommand{\globalcolor}[1]{%
+  \color{#1}\global\let\default@color\current@color
+}
+\makeatother
+
+\definecolor{ogray}{RGB}{60,60,64}
+\definecolor{olgray}{RGB}{150,150,160}
+
+\AtBeginDocument{\globalcolor{ogray}}
+% 606064 3c3d40 all font colors
+%______________________________________________________________________________________________________________________
+\begin{document}
+\name{\hspace{1in}{\Large Ozan Sener} \hfill www.ozansener.net \hspace{24mm}}
+\begin{resume}
+
+    %__________________________________________________________________________________________________________________
+    % Contact Information
+    \section{\mysidestyle \textcolor{olgray}{Contact\\Information}}
+    Herzogstrasse 9        \hfill voice: +49 177 500 45 69          \vspace{0mm}\\\vspace{0mm}%
+    Munich, Germany 80803 \hfill e-mail: ozan@cs.stanford.edu \vspace{0mm}\\\vspace{0mm}%
+    %      \hfill  \vspace{0mm}\\\vspace{-4mm}%
+
+    %__________________________________________________________________________________________________________________
+
+   %Interest
